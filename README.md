@@ -20,4 +20,8 @@ Software and Programming Languages:
 
 
 ## Results
-A base layer with three maps was created with three overlays for tectonic plate boundaries, earthquakes for the past seven days, and earthquakes greater than 4.5 for the last seven days.  Earthquakes were highlighted with circle markers that depicted the relative magnitude of earthquakes as shown by circle size and color.  Pop-up markers were included for each location that conveyed location and magnitude.
+A base layer with three maps was created with three overlays for tectonic plate boundaries, earthquakes for the past seven days, and earthquakes greater than 4.5 for the last seven days.  Earthquakes were highlighted with circle markers that depicted the relative magnitude of earthquakes as shown by circle size and color.  Pop-up markers were included for each location that conveyed location and magnitude (Fig. 1).
+
+![Earthquakes2](https://user-images.githubusercontent.com/95387273/166481807-636bc598-4875-4820-b3eb-1ed5f653e101.png)
+
+Fig. 1.  Earthquake maps with overlays and pop-up markers.
